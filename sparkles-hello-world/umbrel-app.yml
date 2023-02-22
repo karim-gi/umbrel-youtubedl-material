@@ -1,11 +1,11 @@
 manifestVersion: 1
-id: sparkles-hello-world
-name: Hello World
+id: youtubedl-material
+name: Youtubedl Material
 tagline: Replace this tagline with your app's tagline
-icon: https://svgur.com/i/mvA.svg
-category: Development
-version: "1.0.0"
-port: 4000
+icon: https://raw.githubusercontent.com/Tzahi12345/YoutubeDL-Material/master/src/assets/images/logo_64px.png
+category: Networking
+version: "v4.3"
+port: 17442
 description: >-
   Add your app's description here.
 
@@ -19,12 +19,12 @@ submission: https://github.com/getumbrel/umbrel-hello-world-app
 repo: https://github.com/getumbrel/umbrel-hello-world-app
 support: https://github.com/getumbrel/umbrel-hello-world-app/issues
 gallery:
-  - https://i.imgur.com/yyVG0Jb.jpeg
-  - https://i.imgur.com/yyVG0Jb.jpeg
+  - https://camo.githubusercontent.com/19778a8a88f4408c10f4a16627bd1c93b321d4fa76afdab627460a066ed0a58b/68747470733a2f2f692e696d6775722e636f6d2f4336764647624c2e706e67
+  - https://camo.githubusercontent.com/4385d665dcc5ace584a1ccd6da4525ee1eeab03845dbbf5237a9e6a61f12db06/68747470733a2f2f692e696d6775722e636f6d2f764f74764835772e706e67
   - https://i.imgur.com/yyVG0Jb.jpeg
 releaseNotes: >-
   Add what's new in the latest version of your app here.
 dependencies: []
-path: ""
+path: "/youtubedl-material/web/"
 defaultUsername: ""
 defaultPassword: ""
